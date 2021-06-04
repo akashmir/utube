@@ -10,7 +10,7 @@
 * [Setup](#setup)
 * [Status](#status)
 * [Special Notes](#special-notes)
-* [Screenshots](#screenshots)
+
 
 * [Contact](#contact)
 * [License](#license)
