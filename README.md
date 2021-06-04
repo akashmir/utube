@@ -11,7 +11,7 @@
 * [Status](#status)
 * [Special Notes](#special-notes)
 * [Screenshots](#screenshots)
-* [Video Tutorial](#video-tutorial)
+
 * [Contact](#contact)
 * [License](#license)
 
@@ -97,28 +97,23 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 * By default, all the videos are uploaded as private with random category id unless you provide `UPLOAD_MODE` and `VIDEO_CATEGORY`. You may change it after youtube processes the video.
 
-### Screenshots
-<p align="center">
 
-<img  width="25%" height="25%" src="./ss/overview.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-start.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-help.jpg">
 
-<img  width="25%" height="25%" src="./ss/bot-authorise.jpg">
 
-<img  width="25%" height="25%" alt="Upload" src="./ss/bot-upload.jpg">
 
-</p>
 
-### Video Tutorial
 
-Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
+
+
+
+
+
 
 ### Contact
 
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
+You can contact me [@kashmir_2442](https://telegram.dog/kashmir_2442 "kashmir_2442").
 
 ### License
 Code released under [GNU General Public License v3.0](LICENSE).
